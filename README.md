@@ -12,6 +12,6 @@
   ![image](https://github.com/hellokittysouljia/P/assets/161272465/f482e6e1-ef7f-4699-bb75-53641e0c325e)
 ### Step 3.
   > Using the join lines keybind you should of made at the very start, select the objects like this <br />
-  ![image](https://github.com/hellokittysouljia/P/assets/161272465/61aa5868-7f95-47eb-8e05-d04411fd8977)
-  > After selecting the code, press the keybind for joins lines!
-  ![image](https://github.com/hellokittysouljia/P/assets/161272465/4513a9da-3119-4127-85c8-1326d0e4f51a)
+  ![image](https://github.com/hellokittysouljia/P/assets/161272465/61aa5868-7f95-47eb-8e05-d04411fd8977) <br />
+  > After selecting the code, press the keybind for joins lines! <br />
+  ![image](https://github.com/hellokittysouljia/P/assets/161272465/4513a9da-3119-4127-85c8-1326d0e4f51a) <br />
