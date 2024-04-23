@@ -1,6 +1,10 @@
 # You should do these things before starting the tutorial!!
 ### Go to VSCode, Press the keybinds **Ctrl+Shift+P**, or in the search bar at the top, right to the help button and left of the minimize button! <br />
-  Enter the word **Join Lines** <br />
+  1. Enter the word **Join Lines** Do not press!! <br />
+  2. Beside the join lines button there will be an icon that looks like a settings button, Press it! <br />
+  3. Once you have pressed it, you should see a screen that shows you a keybind for join lines, you can change the keybinds by pressing the marker icon! ![image](https://github.com/hellokittysouljia/P/assets/161272465/56c5c50a-72ee-4536-b509-d41f0aef5836)
+
+  
 
 ### Step 1.
   > Every piece with red must have the Instances.RANDOMNAME. removed! (PERIOD INCLUDED!!!)
