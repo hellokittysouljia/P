@@ -1,5 +1,5 @@
 # You should do these things before starting the tutorial!!
-### Go to VSCode, in the search bar at the top, right to the help button and left of the minimize button! <br />
+### Go to VSCode, Press the keybinds **Ctrl+Shift+P**, or in the search bar at the top, right to the help button and left of the minimize button! <br />
   Enter the word **Join Lines** <br />
 
 ### Step 1.
