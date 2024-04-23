@@ -1,6 +1,6 @@
 # You should do these things before starting the tutorial!!
 ### Go to VSCode, in the search bar at the top, right to the help button and left of the minimize button! <br />
-  > Enter the word **Join Lines** <br />
+  ---Enter the word **Join Lines** <br />
 
 ### Step 1.
   > Every piece with red must have the Instances.RANDOMNAME. removed! (PERIOD INCLUDED!!!)
