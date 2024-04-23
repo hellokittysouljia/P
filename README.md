@@ -1,4 +1,4 @@
-# You should do these things before starting the tutorial!!
+### You should do these things before starting the tutorial!!
 
 # Step 1.
   > Every piece with red must have the Instances.RANDOMNAME. removed! (PERIOD INCLUDED!!!)
