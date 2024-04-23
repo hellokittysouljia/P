@@ -16,3 +16,23 @@
   ### After selecting the code, press the keybind for joins lines! <br />
   ![image](https://github.com/hellokittysouljia/P/assets/161272465/4513a9da-3119-4127-85c8-1326d0e4f51a) <br />
 ## Step 4.
+  ### Scroll up to the writeinstances function, *should be this* <br />
+  ![image](https://github.com/hellokittysouljia/P/assets/161272465/21281158-8f3b-4d28-9e27-65da33b4e9fa) <br />
+  ### Make a new one that should be under the last one, like this! <br />
+  ![image](https://github.com/hellokittysouljia/P/assets/161272465/5fc4bc44-7340-46f1-bdb9-91a90d7fb7b8) <br />
+## Step 5.
+  ### Between the two apostrophes, type the objects class.
+  ![image](https://github.com/hellokittysouljia/P/assets/161272465/2d39149a-7179-4b32-a6d6-d57e715df634)
+   > If you need extra help, you should know the objects class by the name <br />
+   ![image](https://github.com/hellokittysouljia/P/assets/161272465/2d8a8cac-6b57-418c-98f2-aed7056159fa) <br />
+   > or, this would be called a UIGradient <br />
+   ![image](https://github.com/hellokittysouljia/P/assets/161272465/d469aa13-d492-42b5-b161-78232bdef8d0) <br />
+   > or this would be called a TextLabel <br />
+   ![image](https://github.com/hellokittysouljia/P/assets/161272465/e2ae558f-0b86-4707-bb56-7a06b9114657) <br />
+   
+  
+  
+
+   
+  
+
