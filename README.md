@@ -32,7 +32,7 @@
   ### Using the join lines keybind you should of made at the very start, select the objects like this <br />
   ![image](https://github.com/hellokittysouljia/P/assets/161272465/61aa5868-7f95-47eb-8e05-d04411fd8977) <br />
   ### After selecting the code, press the keybind for joins lines! <br />
-    `Name='FlamethrowerButton', Parent={240}, BackgroundColor3=Color3.fromRGB(20, 20, 20), BorderColor3=Color3.fromRGB(0, 0, 0), Position=UDim2.new(0.0270000007, 0, 0.310000002, 0), Size=UDim2.new(0, 248, 0, 21), Font=Enum.Font.Code, Text='Flamethrower     [$15914]',TextColor3=Color3.fromRGB(217, 244, 255), TextSize=14,`
+    Name='FlamethrowerButton', Parent={240}, BackgroundColor3=Color3.fromRGB(20, 20, 20), BorderColor3=Color3.fromRGB(0, 0, 0), Position=UDim2.new(0.0270000007, 0, 0.310000002, 0), Size=UDim2.new(0, 248, 0, 21), Font=Enum.Font.Code, Text='Flamethrower[$15914]',TextColor3=Color3.fromRGB(217, 244, 255), TextSize=14,
 ## Step 4.
   ### Scroll up to the writeinstances function, *should be this* <br />
   ![image](https://github.com/hellokittysouljia/P/assets/161272465/21281158-8f3b-4d28-9e27-65da33b4e9fa) <br />
