@@ -5,7 +5,7 @@
   3. Once you have pressed it, you should see a screen that shows you a keybind for join lines, you can change the keybinds by pressing the marker icon! ![image](https://github.com/hellokittysouljia/P/assets/161272465/56c5c50a-72ee-4536-b509-d41f0aef5836) <br />
 
 ## Step 1.
-  ### Every piece with the text `Instances.RANDOMNAME.` removed! (PERIOD INCLUDED!!!)
+  ### Every piece with the text `Instances.RANDOMNAME.` must be removed! (PERIOD INCLUDED!!!)
   `Instances.FlamethrowerButton.Name='FlamethrowerButton',
    Instances.FlamethrowerButton.Parent={240},
    Instances.FlamethrowerButton.BackgroundColor3=Color3.fromRGB(20, 20, 20),
