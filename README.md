@@ -40,7 +40,7 @@
   `{252,'',{}};`
 ## Step 5.
   ### Between the two apostrophes, type the objects class.
-  ![image](https://github.com/hellokittysouljia/P/assets/161272465/2d39149a-7179-4b32-a6d6-d57e715df634)
+    {252,'TextButton',{}};
    > If you need extra help, you should know the objects class by the name <br />
    ![image](https://github.com/hellokittysouljia/P/assets/161272465/2d8a8cac-6b57-418c-98f2-aed7056159fa) <br />
    > or, this would be called a UIGradient <br />
