@@ -5,17 +5,17 @@
   3. Once you have pressed it, you should see a screen that shows you a keybind for join lines, you can change the keybinds by pressing the marker icon! ![image](https://github.com/hellokittysouljia/P/assets/161272465/56c5c50a-72ee-4536-b509-d41f0aef5836) <br />
 
 ## Step 1.
-  ### Every piece with red must have the Instances.RANDOMNAME. removed! (PERIOD INCLUDED!!!)
+  ### Every piece with the text `Instances.RANDOMNAME.` removed! (PERIOD INCLUDED!!!)
   `Instances.FlamethrowerButton.Name='FlamethrowerButton',
-    Instances.FlamethrowerButton.Parent={240},
-    Instances.FlamethrowerButton.BackgroundColor3=Color3.fromRGB(20, 20, 20),
-    Instances.FlamethrowerButton.BorderColor3=Color3.fromRGB(0, 0, 0),
-    Instances.FlamethrowerButton.Position=UDim2.new(0.0270000007, 0, 0.310000002, 0),
-    Instances.FlamethrowerButton.Size=UDim2.new(0, 248, 0, 21),
-    Instances.FlamethrowerButton.Font=Enum.Font.Code,
-    Instances.FlamethrowerButton.Text='Flamethrower [$15914]',
-    Instances.FlamethrowerButton.TextColor3=Color3.fromRGB(217, 244, 255),
-    Instances.FlamethrowerButton.TextSize=14,`
+   Instances.FlamethrowerButton.Parent={240},
+   Instances.FlamethrowerButton.BackgroundColor3=Color3.fromRGB(20, 20, 20),
+   Instances.FlamethrowerButton.BorderColor3=Color3.fromRGB(0, 0, 0),
+   Instances.FlamethrowerButton.Position=UDim2.new(0.0270000007, 0, 0.310000002, 0),
+   Instances.FlamethrowerButton.Size=UDim2.new(0, 248, 0, 21),
+   Instances.FlamethrowerButton.Font=Enum.Font.Code,
+   Instances.FlamethrowerButton.Text='Flamethrower [$15914]',
+   Instances.FlamethrowerButton.TextColor3=Color3.fromRGB(217, 244, 255),
+   Instances.FlamethrowerButton.TextSize=14,`
 ## Step 2.
   ### After the removeal of the objects name, you should be left with the stuff under the green
   ![image](https://github.com/hellokittysouljia/P/assets/161272465/f482e6e1-ef7f-4699-bb75-53641e0c325e)
