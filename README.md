@@ -7,7 +7,7 @@
 ## Step 1.
   ### Every piece with the text `Instances.RANDOMNAME.` must be removed! (PERIOD INCLUDED!!!)
    `Instances.FlamethrowerButton.Name='FlamethrowerButton',` <br />
-   `Instances.FlamethrowerButton.Parent={240},` <br />
+   `==Instances.FlamethrowerButton.==Parent={240},` <br />
    `Instances.FlamethrowerButton.BackgroundColor3=Color3.fromRGB(20, 20, 20),` <br />
    `Instances.FlamethrowerButton.BorderColor3=Color3.fromRGB(0, 0, 0),` <br />
    `Instances.FlamethrowerButton.Position=UDim2.new(0.0270000007, 0, 0.310000002, 0),` <br />
