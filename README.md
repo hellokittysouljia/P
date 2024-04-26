@@ -37,7 +37,7 @@
   ### Scroll up to the writeinstances function, *should be this* <br />
   ![image](https://github.com/hellokittysouljia/P/assets/161272465/21281158-8f3b-4d28-9e27-65da33b4e9fa) <br />
   ### Make a new one that should be under the last one, like this! <br />
-  ![image](https://github.com/hellokittysouljia/P/assets/161272465/5fc4bc44-7340-46f1-bdb9-91a90d7fb7b8) <br />
+  `{252,'',{}};`
 ## Step 5.
   ### Between the two apostrophes, type the objects class.
   ![image](https://github.com/hellokittysouljia/P/assets/161272465/2d39149a-7179-4b32-a6d6-d57e715df634)
