@@ -7,7 +7,7 @@
 ## Step 1.
   ### Every piece with the text `Instances.RANDOMNAME.` must be removed! (PERIOD INCLUDED!!!)
    `Instances.FlamethrowerButton.Name='FlamethrowerButton',` <br />
-   `==Instances.FlamethrowerButton.==Parent={240},` <br />
+   `Instances.FlamethrowerButton.Parent={240},` <br />
    `Instances.FlamethrowerButton.BackgroundColor3=Color3.fromRGB(20, 20, 20),` <br />
    `Instances.FlamethrowerButton.BorderColor3=Color3.fromRGB(0, 0, 0),` <br />
    `Instances.FlamethrowerButton.Position=UDim2.new(0.0270000007, 0, 0.310000002, 0),` <br />
@@ -17,8 +17,17 @@
    `Instances.FlamethrowerButton.TextColor3=Color3.fromRGB(217, 244, 255),` <br />
    `Instances.FlamethrowerButton.TextSize=14,` <br />
 ## Step 2.
-  ### After the removeal of the objects name, you should be left with the stuff under the green
-  ![image](https://github.com/hellokittysouljia/P/assets/161272465/f482e6e1-ef7f-4699-bb75-53641e0c325e)
+  ### After the removeal of the objects name, you should be left with the properties
+  `Name='FlamethrowerButton',` <br />
+  `Parent={240},` <br />
+  `BackgroundColor3=Color3.fromRGB(20, 20, 20),` <br />
+  `BorderColor3=Color3.fromRGB(0, 0, 0),` <br />
+  `Position=UDim2.new(0.0270000007, 0, 0.310000002, 0),` <br />
+  `Size=UDim2.new(0, 248, 0, 21),` <br />
+  `Font=Enum.Font.Code,` <br />
+  `Text='Flamethrower [$15914]',` <br />
+  `TextColor3=Color3.fromRGB(217, 244, 255),` <br />
+  `TextSize=14,` <br />
 ## Step 3.
   ### Using the join lines keybind you should of made at the very start, select the objects like this <br />
   ![image](https://github.com/hellokittysouljia/P/assets/161272465/61aa5868-7f95-47eb-8e05-d04411fd8977) <br />
