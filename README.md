@@ -6,28 +6,28 @@
 
 ## Step 1.
   ### Every piece with the text `Instances.RANDOMNAME.` must be removed! (PERIOD INCLUDED!!!)
-     `Instances.FlamethrowerButton.Name='FlamethrowerButton',` <br />
-     `Instances.FlamethrowerButton.Parent={240},` <br />
-     `Instances.FlamethrowerButton.BackgroundColor3=Color3.fromRGB(20, 20, 20),` <br />
-     `Instances.FlamethrowerButton.BorderColor3=Color3.fromRGB(0, 0, 0),` <br />
-     `Instances.FlamethrowerButton.Position=UDim2.new(0.0270000007, 0, 0.310000002, 0),` <br />
-     `Instances.FlamethrowerButton.Size=UDim2.new(0, 248, 0, 21),` <br />
-     `Instances.FlamethrowerButton.Font=Enum.Font.Code,` <br />
-     `Instances.FlamethrowerButton.Text='Flamethrower [$15914]',` <br />
-     `Instances.FlamethrowerButton.TextColor3=Color3.fromRGB(217, 244, 255),` <br />
-     `Instances.FlamethrowerButton.TextSize=14,` <br />
+     Instances.FlamethrowerButton.Name='FlamethrowerButton', <br />
+     Instances.FlamethrowerButton.Parent={240}, <br />
+     Instances.FlamethrowerButton.BackgroundColor3=Color3.fromRGB(20, 20, 20), <br />
+     Instances.FlamethrowerButton.BorderColor3=Color3.fromRGB(0, 0, 0), <br />
+     Instances.FlamethrowerButton.Position=UDim2.new(0.0270000007, 0, 0.310000002, 0), <br />
+     Instances.FlamethrowerButton.Size=UDim2.new(0, 248, 0, 21), <br />
+     Instances.FlamethrowerButton.Font=Enum.Font.Code, <br />
+     Instances.FlamethrowerButton.Text='Flamethrower [$15914]', <br />
+     Instances.FlamethrowerButton.TextColor3=Color3.fromRGB(217, 244, 255), <br />
+     Instances.FlamethrowerButton.TextSize=14, <br />
 ## Step 2.
   ### After the removeal of the objects name, you should be left with the properties
-    `Name='FlamethrowerButton',` <br />
-    `Parent={240},` <br />
-    `BackgroundColor3=Color3.fromRGB(20, 20, 20),` <br />
-    `BorderColor3=Color3.fromRGB(0, 0, 0),` <br />
-    `Position=UDim2.new(0.0270000007, 0, 0.310000002, 0),` <br />
-    `Size=UDim2.new(0, 248, 0, 21),` <br />
-    `Font=Enum.Font.Code,` <br />
-    `Text='Flamethrower [$15914]',` <br />
-    `TextColor3=Color3.fromRGB(217, 244, 255),` <br />
-    `TextSize=14,` <br />
+    Name='FlamethrowerButton', <br />
+    Parent={240}, <br />
+    BackgroundColor3=Color3.fromRGB(20, 20, 20), <br />
+    BorderColor3=Color3.fromRGB(0, 0, 0), <br />
+    Position=UDim2.new(0.0270000007, 0, 0.310000002, 0), <br />
+    Size=UDim2.new(0, 248, 0, 21), <br />
+    Font=Enum.Font.Code, <br />
+    Text='Flamethrower [$15914]', <br />
+    TextColor3=Color3.fromRGB(217, 244, 255), <br />
+    TextSize=14, <br />
 ## Step 3.
   ### Using the join lines keybind you should of made at the very start, select the objects like this <br />
   ![image](https://github.com/hellokittysouljia/P/assets/161272465/61aa5868-7f95-47eb-8e05-d04411fd8977) <br />
@@ -37,10 +37,10 @@
   ### Scroll up to the writeinstances function, *should be this* <br />
   ![image](https://github.com/hellokittysouljia/P/assets/161272465/21281158-8f3b-4d28-9e27-65da33b4e9fa) <br />
   ### Make a new one that should be under the last one, like this! <br />
-    `{252,'',{}};`
+    {252,'',{}};
 ## Step 5.
   ### Between the two apostrophes, type the objects class.
-    `{252,'TextButton',{}};`
+    {252,'TextButton',{}};
    > If you need extra help, you should know the objects class by the name <br />
    ![image](https://github.com/hellokittysouljia/P/assets/161272465/2d8a8cac-6b57-418c-98f2-aed7056159fa) <br />
    > or, this would be called a UIGradient <br />
