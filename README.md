@@ -43,7 +43,7 @@
     {252,'TextButton',{}};
    > If you need extra help, you should know the objects class by the name <br />
    ![image](https://github.com/hellokittysouljia/P/assets/161272465/2d8a8cac-6b57-418c-98f2-aed7056159fa) <br />
-   > or, this would be called a UIGradient <br />
+   > or, this would be called a `UIGradient` <br />
    ![image](https://github.com/hellokittysouljia/P/assets/161272465/d469aa13-d492-42b5-b161-78232bdef8d0) <br />
    > or this would be called a `TextLabel` <br />
    ![image](https://github.com/hellokittysouljia/P/assets/161272465/e2ae558f-0b86-4707-bb56-7a06b9114657) <br />
